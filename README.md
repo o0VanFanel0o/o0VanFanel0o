@@ -1,8 +1,7 @@
 # 👋 Hola, soy Luis Abraham Guevara Govantes
 
-💻 Frontend Developer en formación  
-🚀 Frontend Developer enfocado en JavaScript y consumo de APIs
-Construyo aplicaciones web dinámicas con UI interactiva y lógica real
+🚀 Frontend Developer enfocado en JavaScript y consumo de APIs  
+Construyo aplicaciones web dinámicas con UI interactiva y lógica real  
 
 ---
 
@@ -17,34 +16,47 @@ Construyo aplicaciones web dinámicas con UI interactiva y lógica real
 
 ## 📌 Proyectos Destacados
 
-🔹 **Pokédex (en desarrollo)**  
-Aplicación web tipo Pokédex que consume la PokeAPI con búsqueda en tiempo real,
-sistema de favoritos persistente (localStorage) y modal interactivo con estadísticas.- Fetch API  
-- Async/Await  
-- Manipulación del DOM
-🔗 Demo: https://o0vanfanel0o.github.io/pokedex/
-📁 Repo: https://github.com/o0VanFanel0o/pokedex
-Aplicación web tipo Pokédex...
+### 🔹 Pokédex
 
-🔹 **To-Do App**  
-Aplicación para gestión de tareas con lógica en JavaScript
-🔗 Demo: https://o0vanfanel0o.github.io/to-do-app/
-📁 Repo: https://github.com/o0VanFanel0o/to-do-app
+Aplicación web tipo Pokédex que consume la PokeAPI con:
 
-🔹 **Frontend Mentor Challenges**  
-Componentes UI construidos con HTML y CSS  
+- Búsqueda en tiempo real  
+- Sistema de favoritos (localStorage)  
+- Modal interactivo con estadísticas  
+- Fetch API + Async/Await  
+- Manipulación del DOM  
+
+🔗 Demo: https://o0vanfanel0o.github.io/pokedex/  
+📁 Repo: https://github.com/o0VanFanel0o/pokedex  
+
+---
+
+### 🔹 To-Do App
+
+Aplicación de gestión de tareas con lógica en JavaScript y manipulación del DOM.
+
+🔗 Demo: https://o0vanfanel0o.github.io/to-do-app/  
+📁 Repo: https://github.com/o0VanFanel0o/to-do-app  
+
+---
+
+### 🔹 Frontend Mentor Challenges
+
+Componentes UI construidos con HTML y CSS.
 
 ---
 
 ## 🎓 Formación
 
 **Escuela de Código - PILARES**
+
 - Desarrollo de Páginas Web (40h)  
 - Python (40h)  
 - Base de Datos (30h)  
 - Pensamiento Computacional (30h)  
 
 **Cursos Online**
+
 - Curso de Python — Platzi  
 - Curso Definitivo de HTML y CSS  
 
@@ -52,8 +64,8 @@ Componentes UI construidos con HTML y CSS
 
 ## 🎯 Actualmente
 
-- Mejorando JavaScript  
-- Construyendo proyectos con APIs  
+- Construyendo aplicaciones con JavaScript y APIs  
+- Mejorando lógica y experiencia de usuario  
 - Próximo paso: React  
 
 ---
@@ -61,4 +73,4 @@ Componentes UI construidos con HTML y CSS
 ## 📫 Contacto
 
 📧 luis.guevara.dev@gmail.com  
-💻 https://github.com/o0VanFanel0o
+💻 https://github.com/o0VanFanel0o  
