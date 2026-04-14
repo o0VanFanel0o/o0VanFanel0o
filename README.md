@@ -4,10 +4,6 @@
 🚀 Frontend Developer enfocado en JavaScript, APIs y UI interactiva
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/o0VanFanel0o/pokedex/main/demo1.gif" width="600"/>
-</p>
-
 ---
 
 ## 🧠 Sobre mí
