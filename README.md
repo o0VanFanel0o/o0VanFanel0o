@@ -23,9 +23,7 @@ sistema de favoritos persistente (localStorage) y modal interactivo con estadís
 - Async/Await  
 - Manipulación del DOM
 🔗 Demo: https://o0vanfanel0o.github.io/pokedex/
-
 📁 Repo: https://github.com/o0VanFanel0o/pokedex
-
 Aplicación web tipo Pokédex...
 
 🔹 **To-Do App**  
