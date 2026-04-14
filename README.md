@@ -103,11 +103,6 @@ Componentes UI construidos con HTML y CSS.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=o0VanFanel0o&show_icons=true"/>
-</p>
-
-
 ## 📫 Contacto
 
 📧 luis.guevara.dev@gmail.com  
