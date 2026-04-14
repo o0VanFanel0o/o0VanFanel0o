@@ -73,6 +73,9 @@ Aplicación web tipo Pokédex que consume la PokeAPI con:
 
 Aplicación de gestión de tareas con lógica en JavaScript y manipulación del DOM.
 
+- CRUD de tareas
+- Persistencia en localStorage
+
 ![Demo](https://raw.githubusercontent.com/o0VanFanel0o/to-do-app/main/captura.png)
 📁 Repo: https://github.com/o0VanFanel0o/to-do-app  
 
@@ -99,6 +102,11 @@ Componentes UI construidos con HTML y CSS.
 - Curso Definitivo de HTML y CSS  
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=o0VanFanel0o&show_icons=true"/>
+</p>
+
 
 ## 📫 Contacto
 
