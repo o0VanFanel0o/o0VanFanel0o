@@ -12,6 +12,19 @@ Soy desarrollador frontend en formación, enfocado en construir aplicaciones web
 Me interesa crear interfaces limpias, funcionales y con buena experiencia de usuario.
 
 ---
+<p align="center">
+🚀 Frontend Developer enfocado en JavaScript, APIs y UI interactiva
+</p>
+
+<p align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/API-REST-ff6f61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge"/>
+</p>
+</p>
 
 <table>
 <tr>
