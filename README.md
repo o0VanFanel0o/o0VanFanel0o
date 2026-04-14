@@ -1,9 +1,25 @@
-# 👋 Hola, soy Luis Abraham Guevara Govantes
+<h1 align="center">👋 Hola, soy Luis Abraham Guevara</h1>
 
-🚀 Frontend Developer enfocado en JavaScript y consumo de APIs  
-Construyo aplicaciones web dinámicas con UI interactiva y lógica real  
+<p align="center">
+🚀 Frontend Developer enfocado en JavaScript, APIs y UI interactiva
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/o0VanFanel0o/pokedex/main/assets/demo.gif" width="600"/>
+</p>
 
 ---
+
+## 🧠 Sobre mí
+
+Soy desarrollador frontend en formación, enfocado en construir aplicaciones web dinámicas con JavaScript, consumo de APIs y manipulación del DOM.  
+Me interesa crear interfaces limpias, funcionales y con buena experiencia de usuario.
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🛠️ Tecnologías
 
@@ -12,11 +28,28 @@ Construyo aplicaciones web dinámicas con UI interactiva y lógica real
 - JavaScript (ES6+, async/await, fetch)  
 - Python (bases)  
 
+</td>
+
+<td width="50%" valign="top">
+
+## 🎯 Actualmente
+
+- Construyendo proyectos con APIs  
+- Mejorando lógica en JavaScript  
+- Enfocado en UI/UX  
+- Próximo paso: React  
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📌 Proyectos Destacados
 
 ### 🔹 Pokédex
+
+![Demo](https://raw.githubusercontent.com/o0VanFanel0o/pokedex/main/assets/demo.gif)
 
 Aplicación web tipo Pokédex que consume la PokeAPI con:
 
@@ -26,7 +59,7 @@ Aplicación web tipo Pokédex que consume la PokeAPI con:
 - Fetch API + Async/Await  
 - Manipulación del DOM  
 
-🔗 ![Demo](https://raw.githubusercontent.com/o0VanFanel0o/pokedex/main/demo1.gif)  
+🔗 Demo: https://o0vanfanel0o.github.io/pokedex/  
 📁 Repo: https://github.com/o0VanFanel0o/pokedex  
 
 ---
@@ -35,7 +68,7 @@ Aplicación web tipo Pokédex que consume la PokeAPI con:
 
 Aplicación de gestión de tareas con lógica en JavaScript y manipulación del DOM.
 
-🔗 ![Demo](https://raw.githubusercontent.com/o0VanFanel0o/to-do-app/main/captura.png)
+🔗 Demo: https://o0vanfanel0o.github.io/to-do-app/  
 📁 Repo: https://github.com/o0VanFanel0o/to-do-app  
 
 ---
@@ -59,14 +92,6 @@ Componentes UI construidos con HTML y CSS.
 
 - Curso de Python — Platzi  
 - Curso Definitivo de HTML y CSS  
-
----
-
-## 🎯 Actualmente
-
-- Construyendo aplicaciones con JavaScript y APIs  
-- Mejorando lógica y experiencia de usuario  
-- Próximo paso: React  
 
 ---
 
