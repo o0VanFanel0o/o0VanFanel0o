@@ -35,7 +35,7 @@ Aplicación web tipo Pokédex que consume la PokeAPI con:
 
 Aplicación de gestión de tareas con lógica en JavaScript y manipulación del DOM.
 
-🔗 Demo: https://o0vanfanel0o.github.io/to-do-app/  
+🔗 ![Demo](https://raw.githubusercontent.com/o0VanFanel0o/to-do-app/main/captura.png)
 📁 Repo: https://github.com/o0VanFanel0o/to-do-app  
 
 ---
