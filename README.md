@@ -49,7 +49,7 @@ Me interesa crear interfaces limpias, funcionales y con buena experiencia de usu
 
 ### 🔹 Pokédex
 
-![Demo](https://raw.githubusercontent.com/o0VanFanel0o/pokedex/main/assets/demo.gif)
+![Demo](https://raw.githubusercontent.com/o0VanFanel0o/pokedex/main/demo1.gif)
 
 Aplicación web tipo Pokédex que consume la PokeAPI con:
 
@@ -68,7 +68,7 @@ Aplicación web tipo Pokédex que consume la PokeAPI con:
 
 Aplicación de gestión de tareas con lógica en JavaScript y manipulación del DOM.
 
-🔗 Demo: https://o0vanfanel0o.github.io/to-do-app/  
+🔗 Demo: https://o0vanfanel0o.github.io/to-do-app/main/capura.png
 📁 Repo: https://github.com/o0VanFanel0o/to-do-app  
 
 ---
