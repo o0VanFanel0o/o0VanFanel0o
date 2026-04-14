@@ -26,7 +26,7 @@ Aplicación web tipo Pokédex que consume la PokeAPI con:
 - Fetch API + Async/Await  
 - Manipulación del DOM  
 
-🔗 Demo: https://o0vanfanel0o.github.io/pokedex/  
+🔗 ![Demo](https://raw.githubusercontent.com/o0VanFanel0o/pokedex/main/assets/demo.gif)  
 📁 Repo: https://github.com/o0VanFanel0o/pokedex  
 
 ---
