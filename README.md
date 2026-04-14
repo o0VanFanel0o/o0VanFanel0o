@@ -1,7 +1,8 @@
 # 👋 Hola, soy Luis Abraham Guevara Govantes
 
 💻 Frontend Developer en formación  
-🚀 Enfocado en JavaScript, APIs y desarrollo web moderno  
+🚀 Frontend Developer enfocado en JavaScript y consumo de APIs
+Construyo aplicaciones web dinámicas con UI interactiva y lógica real
 
 ---
 
@@ -17,13 +18,18 @@
 ## 📌 Proyectos Destacados
 
 🔹 **Pokédex (en desarrollo)**  
-Aplicación que consume una API real para mostrar Pokémon dinámicamente  
-- Fetch API  
+Aplicación web tipo Pokédex que consume la PokeAPI con búsqueda en tiempo real,
+sistema de favoritos persistente (localStorage) y modal interactivo con estadísticas.- Fetch API  
 - Async/Await  
-- Manipulación del DOM  
+- Manipulación del DOM
+🔗 Demo: [https://o0vanfanel0o.github.io/pokedex/](https://o0vanfanel0o.github.io/pokedex/)
+📁 Repo: https://github.com/o0VanFanel0o/pokedex
+Aplicación web tipo Pokédex...
 
 🔹 **To-Do App**  
-Aplicación para gestión de tareas con lógica en JavaScript  
+Aplicación para gestión de tareas con lógica en JavaScript
+🔗 Demo: https://o0vanfanel0o.github.io/to-do-app/
+📁 Repo: https://github.com/o0VanFanel0o/to-do-app
 
 🔹 **Frontend Mentor Challenges**  
 Componentes UI construidos con HTML y CSS  
