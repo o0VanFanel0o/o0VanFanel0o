@@ -54,7 +54,7 @@ Me interesa crear interfaces limpias, funcionales y con buena experiencia de usu
 
 ### 🔹 Pokédex
 
-![Demo](https://raw.githubusercontent.com/o0VanFanel0o/pokedex/main/demo1.gif)
+![Demo](https://raw.githubusercontent.com/o0VanFanel0o/pokedex/main/demo.gif)
 
 Aplicación web tipo Pokédex que consume la PokeAPI con:
 
