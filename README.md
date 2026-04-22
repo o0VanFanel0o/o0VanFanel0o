@@ -57,7 +57,6 @@ Me interesa crear interfaces limpias, funcionales y con buena experiencia de usu
 ![Demo](https://raw.githubusercontent.com/o0VanFanel0o/pokedex/main/demo.gif)
 
 Aplicación web tipo Pokédex que consume la PokeAPI con:
-
 - Búsqueda en tiempo real  
 - Sistema de favoritos (localStorage)  
 - Modal interactivo con estadísticas  
@@ -66,6 +65,19 @@ Aplicación web tipo Pokédex que consume la PokeAPI con:
 
 🔗 Demo: https://o0vanfanel0o.github.io/pokedex/  
 📁 Repo: https://github.com/o0VanFanel0o/pokedex  
+
+---
+
+## 💸 Expense Tracker
+![Demo](https://raw.githubusercontent.com/o0VanFanel0o/expense-tracker/main/demo.gif)
+
+🧾 App para gestionar ingresos y gastos con:
+- CRUD completo
+- Gráficas dinámicas
+- Persistencia con localStorage
+
+🚀 Tecnologías:
+HTML | CSS | JavaScript | Chart.js
 
 ---
 
