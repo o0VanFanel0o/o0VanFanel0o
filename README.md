@@ -55,7 +55,7 @@ Me interesa crear interfaces limpias, funcionales y con buena experiencia de usu
 
 ### 🔹 Habit Tracker 📊
 
-![Vista previa del proyecto](/habit-tracker/Demo.gif)
+![Vista previa del proyecto](https://raw.githubusercontent.com/o0VanFanel0o/habit-tracker/main/Demo.gif)
 
 
 Aplicación de seguimiento de hábitos diarios con visualización de datos, construida con JavaScript ES6+ modular.
