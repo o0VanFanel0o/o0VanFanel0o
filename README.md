@@ -52,19 +52,35 @@ Me interesa crear interfaces limpias, funcionales y con buena experiencia de usu
 
 ## 📌 Proyectos Destacados
 
-### 🔹 Pokédex
 
-![Demo](https://raw.githubusercontent.com/o0VanFanel0o/pokedex/main/demo.gif)
+### 🔹 Habit Tracker 📊
 
-Aplicación web tipo Pokédex que consume la PokeAPI con:
-- Búsqueda en tiempo real  
-- Sistema de favoritos (localStorage)  
-- Modal interactivo con estadísticas  
-- Fetch API + Async/Await  
-- Manipulación del DOM  
+![Vista previa del proyecto](Demo.gif)
 
-🔗 Demo: https://o0vanfanel0o.github.io/pokedex/  
-📁 Repo: https://github.com/o0VanFanel0o/pokedex  
+
+Aplicación de seguimiento de hábitos diarios con visualización de datos, construida con JavaScript ES6+ modular.
+
+## ✨ Funcionalidades
+
+- Registrar hábitos por día de la semana
+- Clasificar hábitos como buenos o malos
+- Visualización con gráficas doughnut y barras (Chart.js)
+- Barra de progreso de hábitos positivos vs negativos
+- Top 3 hábitos más frecuentes
+- Hábitos No Negociables con checkboxes
+- Persistencia con localStorage
+
+## 🛠️ Tecnologías
+
+- HTML5 semántico
+- CSS3 — Grid, animaciones, efectos hover
+- JavaScript ES6+ — Módulos, arrow functions, destructuring, reduce, filter
+- Chart.js — Gráficas doughnut y barras horizontales
+
+## 🔗 Links
+
+- 🌐 Demo en vivo: [GitHub Pages](https://o0vanfanel0o.github.io/habit-tracker/)
+- 💻 Repositorio: [GitHub](https://github.com/o0VanFanel0o/habit-tracker)
 
 ---
 
@@ -81,15 +97,19 @@ HTML | CSS | JavaScript | Chart.js
 
 ---
 
-### 🔹 To-Do App
+### 🔹 Pokédex
 
-Aplicación de gestión de tareas con lógica en JavaScript y manipulación del DOM.
+![Demo](https://raw.githubusercontent.com/o0VanFanel0o/pokedex/main/demo.gif)
 
-- CRUD de tareas
-- Persistencia en localStorage
+Aplicación web tipo Pokédex que consume la PokeAPI con:
+- Búsqueda en tiempo real  
+- Sistema de favoritos (localStorage)  
+- Modal interactivo con estadísticas  
+- Fetch API + Async/Await  
+- Manipulación del DOM  
 
-![Demo](https://raw.githubusercontent.com/o0VanFanel0o/to-do-app/main/captura.png)
-📁 Repo: https://github.com/o0VanFanel0o/to-do-app  
+🔗 Demo: https://o0vanfanel0o.github.io/pokedex/  
+📁 Repo: https://github.com/o0VanFanel0o/pokedex  
 
 ---
 
