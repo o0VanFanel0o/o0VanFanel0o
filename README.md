@@ -76,7 +76,7 @@ Actualmente trabajo en proyectos enfocados en:
 
 <td width="33%" valign="top">
 
-## 🎯 Metas
+## 🏁 Metas
 
 - Convertirme en Full Stack Developer
 - Aprender backend con Node.js
