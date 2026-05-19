@@ -1,26 +1,46 @@
 <h1 align="center">👋 Hola, soy Luis Abraham Guevara</h1>
 
 <p align="center">
-🚀 Frontend Developer enfocado en JavaScript, APIs y UI interactiva
+🚀 Frontend Developer enfocado en React, JavaScript y dashboards interactivos
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Soy desarrollador frontend en formación, enfocado en construir aplicaciones web dinámicas con JavaScript, consumo de APIs y manipulación del DOM.  
-Me interesa crear interfaces limpias, funcionales y con buena experiencia de usuario.
+Soy desarrollador frontend enfocado en construir aplicaciones web modernas con React, JavaScript y arquitecturas basadas en componentes.
+
+Me interesa crear interfaces dinámicas, dashboards interactivos y experiencias de usuario limpias, funcionales y visualmente atractivas.
+
+Actualmente trabajo en proyectos enfocados en:
+- React
+- Responsive Design
+- Consumo de APIs REST
+- Visualización de datos
+- Arquitectura frontend
+- UI/UX
 
 ---
-<p align="center">
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/API-REST-ff6f61?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Responsive-Design-blueviolet?style=for-the-badge"/>
+  
   <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge"/>
 </p>
-</p>
+
+---
 
 <table>
 <tr>
@@ -28,10 +48,17 @@ Me interesa crear interfaces limpias, funcionales y con buena experiencia de usu
 
 ## 🛠️ Tecnologías
 
-- HTML5  
-- CSS3 (Flexbox, Grid)  
-- JavaScript (ES6+, async/await, fetch)  
-- Python (bases)  
+- React
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Responsive Design
+- CSS Grid & Flexbox
+- APIs REST
+- LocalStorage
+- Chart.js
+- Git & GitHub
 
 </td>
 
@@ -39,10 +66,11 @@ Me interesa crear interfaces limpias, funcionales y con buena experiencia de usu
 
 ## 🎯 Actualmente
 
-- Construyendo proyectos con APIs  
-- Mejorando lógica en JavaScript  
-- Enfocado en UI/UX  
-- Próximo paso: React  
+- Construyendo dashboards con React
+- Mejorando arquitectura frontend
+- Practicando componentización
+- Aprendiendo mejores prácticas UI/UX
+- Explorando visualización de datos
 
 </td>
 </tr>
@@ -50,114 +78,141 @@ Me interesa crear interfaces limpias, funcionales y con buena experiencia de usu
 
 ---
 
-## 📌 Proyectos Destacados
+# 🚀 Proyectos Destacados
 
+---
 
-## Habit Tracker Dashboard
-
-Dashboard moderno de productividad desarrollado con React y Vite.
-
-## 📸 Demo
+## 🔹 Habit Tracker Dashboard (React)
 
 ![Habit Tracker Demo](https://raw.githubusercontent.com/o0VanFanel0o/habit-react/main/src/assets/Demo.gif)
 
+Dashboard moderno de productividad desarrollado con React y Vite.
+
 ### ✨ Funcionalidades
+
 - CRUD completo
-- Checklist diario
+- Sistema de checklist diario
 - Dashboard responsive
 - Persistencia con LocalStorage
 - Estadísticas dinámicas
+- Layout con sidebars sticky
+- Arquitectura basada en componentes
 
-🔗 Demo:
-https://TU-LINK-VERCEL.vercel.app
+### 🛠️ Tecnologías
 
-📂 Repositorio:
-https://github.com/TU-USUARIO/TU-REPO
+React • Vite • JavaScript • CSS Grid • Responsive Design
 
+### 🔗 Links
 
-### 🔹 Habit Tracker 📊
+- 🌐 Demo en vivo: https://habit-react.vercel.app/
+- 💻 Repositorio: https://github.com/o0VanFanel0o/habit-react
+
+---
+
+## 🔹 Habit Tracker (Vanilla JavaScript)
 
 ![Vista previa del proyecto](https://raw.githubusercontent.com/o0VanFanel0o/habit-tracker/main/Demo.gif)
 
-
 Aplicación de seguimiento de hábitos diarios con visualización de datos, construida con JavaScript ES6+ modular.
 
-## ✨ Funcionalidades
+### ✨ Funcionalidades
 
 - Registrar hábitos por día de la semana
 - Clasificar hábitos como buenos o malos
-- Visualización con gráficas doughnut y barras (Chart.js)
+- Visualización con gráficas doughnut y barras
 - Barra de progreso de hábitos positivos vs negativos
 - Top 3 hábitos más frecuentes
 - Hábitos No Negociables con checkboxes
 - Persistencia con localStorage
 
-## 🛠️ Tecnologías
+### 🛠️ Tecnologías
 
-- HTML5 semántico
-- CSS3 — Grid, animaciones, efectos hover
-- JavaScript ES6+ — Módulos, arrow functions, destructuring, reduce, filter
-- Chart.js — Gráficas doughnut y barras horizontales
+HTML5 • CSS3 • JavaScript • Chart.js
 
-## 🔗 Links
+### 🔗 Links
 
-- 🌐 Demo en vivo: [GitHub Pages](https://o0vanfanel0o.github.io/habit-tracker/)
-- 💻 Repositorio: [GitHub](https://github.com/o0VanFanel0o/habit-tracker)
+- 🌐 Demo en vivo: https://o0vanfanel0o.github.io/habit-tracker/
+- 💻 Repositorio: https://github.com/o0VanFanel0o/habit-tracker
 
 ---
 
-## 💸 Expense Tracker
+## 🔹 Expense Tracker
+
 ![Demo](https://raw.githubusercontent.com/o0VanFanel0o/expense-tracker/main/demo.gif)
 
-🧾 App para gestionar ingresos y gastos con:
-- CRUD completo
-- Gráficas dinámicas
-- Persistencia con localStorage
+Aplicación para gestionar ingresos y gastos con visualización dinámica de datos.
 
-🚀 Tecnologías:
-HTML | CSS | JavaScript | Chart.js
+### ✨ Funcionalidades
+
+- CRUD completo
+- Persistencia con localStorage
+- Gráficas dinámicas
+- Control de ingresos y gastos
+
+### 🛠️ Tecnologías
+
+HTML5 • CSS3 • JavaScript • Chart.js
+
+### 🔗 Links
+
+- 💻 Repositorio: https://github.com/o0VanFanel0o/expense-tracker
 
 ---
 
-### 🔹 Pokédex
+## 🔹 Pokédex
 
 ![Demo](https://raw.githubusercontent.com/o0VanFanel0o/pokedex/main/demo.gif)
 
-Aplicación web tipo Pokédex que consume la PokeAPI con:
-- Búsqueda en tiempo real  
-- Sistema de favoritos (localStorage)  
-- Modal interactivo con estadísticas  
-- Fetch API + Async/Await  
-- Manipulación del DOM  
+Aplicación web tipo Pokédex consumiendo la PokeAPI.
 
-🔗 Demo: https://o0vanfanel0o.github.io/pokedex/  
-📁 Repo: https://github.com/o0VanFanel0o/pokedex  
+### ✨ Funcionalidades
 
----
+- Búsqueda en tiempo real
+- Sistema de favoritos
+- Modal interactivo con estadísticas
+- Fetch API + Async/Await
+- Persistencia con localStorage
 
-### 🔹 Frontend Mentor Challenges
+### 🛠️ Tecnologías
 
-Componentes UI construidos con HTML y CSS.
+HTML5 • CSS3 • JavaScript • REST API
 
----
+### 🔗 Links
 
-## 🎓 Formación
-
-**Escuela de Código - PILARES**
-
-- Desarrollo de Páginas Web (40h)  
-- Python (40h)  
-- Base de Datos (30h)  
-- Pensamiento Computacional (30h)  
-
-**Cursos Online**
-
-- Curso de Python — Platzi  
-- Curso Definitivo de HTML y CSS  
+- 🌐 Demo: https://o0vanfanel0o.github.io/pokedex/
+- 💻 Repositorio: https://github.com/o0VanFanel0o/pokedex
 
 ---
 
-## 📫 Contacto
+## 🔹 Frontend Mentor Challenges
 
-📧 luis.guevara.dev@gmail.com  
-💻 https://github.com/o0VanFanel0o  
+Colección de componentes UI desarrollados para practicar maquetación y diseño responsive.
+
+### 🛠️ Tecnologías
+
+HTML5 • CSS3 • Flexbox • Grid
+
+---
+
+# 🎓 Formación
+
+## Escuela de Código - PILARES
+
+- Desarrollo de Páginas Web (40h)
+- Python (40h)
+- Base de Datos (30h)
+- Pensamiento Computacional (30h)
+
+## Cursos Online
+
+- Curso de Python — Platzi
+- Curso Definitivo de HTML y CSS
+- React y JavaScript moderno (autodidacta)
+
+---
+
+# 📫 Contacto
+
+📧 luis.guevara.dev@gmail.com
+
+💻 https://github.com/o0VanFanel0o
