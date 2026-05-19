@@ -53,6 +53,28 @@ Me interesa crear interfaces limpias, funcionales y con buena experiencia de usu
 ## 📌 Proyectos Destacados
 
 
+## Habit Tracker Dashboard
+
+Dashboard moderno de productividad desarrollado con React y Vite.
+
+## 📸 Demo
+
+![Habit Tracker Demo](https://raw.githubusercontent.com/o0VanFanel0o/habit-react/main/src/assets/Demo.gif)
+
+### ✨ Funcionalidades
+- CRUD completo
+- Checklist diario
+- Dashboard responsive
+- Persistencia con LocalStorage
+- Estadísticas dinámicas
+
+🔗 Demo:
+https://TU-LINK-VERCEL.vercel.app
+
+📂 Repositorio:
+https://github.com/TU-USUARIO/TU-REPO
+
+
 ### 🔹 Habit Tracker 📊
 
 ![Vista previa del proyecto](https://raw.githubusercontent.com/o0VanFanel0o/habit-tracker/main/Demo.gif)
