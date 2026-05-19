@@ -44,7 +44,7 @@ Actualmente trabajo en proyectos enfocados en:
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## 🛠️ Tecnologías
 
@@ -62,7 +62,7 @@ Actualmente trabajo en proyectos enfocados en:
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## 🎯 Actualmente
 
@@ -74,7 +74,7 @@ Actualmente trabajo en proyectos enfocados en:
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ## 🎯 Metas
 
