@@ -73,6 +73,21 @@ Actualmente trabajo en proyectos enfocados en:
 - Explorando visualización de datos
 
 </td>
+
+<td width="50%" valign="top">
+
+## 🎯 Metas
+
+- Convertirme en Full Stack Developer
+- Aprender backend con Node.js
+- Profundizar en Python
+- Aprender SQL y bases de datos relacionales
+- Integrar APIs y backend real
+- Mejorar arquitectura frontend
+- Aprender TypeScript
+
+</td>
+
 </tr>
 </table>
 
