@@ -1,24 +1,25 @@
 <h1 align="center">👋 Hola, soy Luis Abraham Guevara</h1>
 
 <p align="center">
-🚀 Frontend Developer enfocado en React, JavaScript y dashboards interactivos
+🚀 Fullstack Developer | React + Node.js + PostgreSQL
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Soy desarrollador frontend enfocado en construir aplicaciones web modernas con React, JavaScript y arquitecturas basadas en componentes.
+Soy desarrollador fullstack enfocado en construir aplicaciones web completas: desde interfaces dinámicas con React hasta APIs REST con Node.js, pasando por bases de datos PostgreSQL y despliegues con Docker.
 
-Me interesa crear interfaces dinámicas, dashboards interactivos y experiencias de usuario limpias, funcionales y visualmente atractivas.
+Me interesa crear experiencias de usuario limpias, funcionales y visualmente atractivas, así como arquitecturas backend robustas y bien estructuradas.
 
 Actualmente trabajo en proyectos enfocados en:
 - React
+- Node.js + Express
+- PostgreSQL
+- Docker
 - Responsive Design
-- Consumo de APIs REST
-- Visualización de datos
-- Arquitectura frontend
-- UI/UX
+- Consumo y creación de APIs REST
+- Arquitectura frontend y backend
 
 ---
 
@@ -31,13 +32,17 @@ Actualmente trabajo en proyectos enfocados en:
   
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/API-REST-ff6f61?style=for-the-badge"/>
-  
-  <img src="https://img.shields.io/badge/Responsive-Design-blueviolet?style=for-the-badge"/>
-  
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge"/>
 </p>
 
 ---
@@ -48,6 +53,7 @@ Actualmente trabajo en proyectos enfocados en:
 
 ## 🛠️ Tecnologías
 
+**Frontend:**
 - React
 - Vite
 - JavaScript (ES6+)
@@ -55,9 +61,17 @@ Actualmente trabajo en proyectos enfocados en:
 - CSS3
 - Responsive Design
 - CSS Grid & Flexbox
-- APIs REST
-- LocalStorage
-- Chart.js
+
+**Backend:**
+- Node.js
+- Express
+- PostgreSQL
+- Nodemailer
+
+**Infra:**
+- Docker
+- Tailscale
+- Vercel
 - Git & GitHub
 
 </td>
@@ -66,11 +80,11 @@ Actualmente trabajo en proyectos enfocados en:
 
 ## 🎯 Actualmente
 
-- Construyendo dashboards con React
-- Mejorando arquitectura frontend
-- Practicando componentización
+- Construyendo aplicaciones fullstack con React + Node.js
+- Mejorando arquitectura frontend y backend
+- Profundizando en PostgreSQL
 - Aprendiendo mejores prácticas UI/UX
-- Explorando visualización de datos
+- Explorando despliegues con Docker
 
 </td>
 
@@ -78,13 +92,12 @@ Actualmente trabajo en proyectos enfocados en:
 
 ## 🏁 Metas
 
-- Convertirme en Full Stack Developer
-- Aprender backend con Node.js
-- Profundizar en Python
-- Aprender SQL y bases de datos relacionales
-- Integrar APIs y backend real
-- Mejorar arquitectura frontend
 - Aprender TypeScript
+- Profundizar en testing (Jest, React Testing Library)
+- Aprender CI/CD con GitHub Actions
+- Explorar Kubernetes y AWS
+- Aprender React Native
+- Contribuir a proyectos open source
 
 </td>
 
@@ -94,6 +107,34 @@ Actualmente trabajo en proyectos enfocados en:
 ---
 
 # 🚀 Proyectos Destacados
+
+---
+
+## 🔹 Catálogo Prodima (Fullstack)
+
+Aplicación completa de catálogo para empresa de muebles a medida. Incluye frontend en React desplegado en Vercel, backend en Node.js + Express con PostgreSQL, y comunicación entre ambos mediante una API REST pública.
+
+### ✨ Funcionalidades
+
+- Catálogo con filtros por espacio (recámara, cocina, baño, comedor, etc.)
+- Modal con carrusel de imágenes y navegación con puntos indicadores
+- Formulario de contacto con envío de correos vía Nodemailer
+- Página de detalle de producto
+- Diseño mobile-first con tema glassmorphism
+- Navegación por URL con filtros persistentes
+- API REST con PostgreSQL y datos normalizados
+
+### 🛠️ Tecnologías
+
+**Frontend:** React, Vite, React Router, CSS  
+**Backend:** Node.js, Express, PostgreSQL, Nodemailer  
+**Infra:** Docker, Tailscale Funnel, Vercel
+
+### 🔗 Links
+
+- 🌐 Demo en vivo: https://catalogo-muebles-phi.vercel.app
+- 💻 Frontend: https://github.com/o0VanFanel0o/catalogo-muebles
+- ⚙️ Backend: https://github.com/o0VanFanel0o/catalogo-muebles_api
 
 ---
 
@@ -223,6 +264,7 @@ HTML5 • CSS3 • Flexbox • Grid
 - Curso de Python — Platzi
 - Curso Definitivo de HTML y CSS
 - React y JavaScript moderno (autodidacta)
+- Node.js, Express y PostgreSQL (autodidacta)
 
 ---
 
