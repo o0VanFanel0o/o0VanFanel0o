@@ -112,6 +112,8 @@ Actualmente trabajo en proyectos enfocados en:
 
 ## 🔹 Catálogo Prodima (Fullstack)
 
+![Vista previa del proyecto](https://raw.githubusercontent.com/o0VanFanel0o/catalogo-muebles/public/demo.gif)
+
 Aplicación completa de catálogo para empresa de muebles a medida. Incluye frontend en React desplegado en Vercel, backend en Node.js + Express con PostgreSQL, y comunicación entre ambos mediante una API REST pública.
 
 ### ✨ Funcionalidades
